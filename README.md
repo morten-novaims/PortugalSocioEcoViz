@@ -13,3 +13,5 @@ docker run -d -p 8080:80 --name shinyApp municipalities_shiny_app
 ### Access visualization
 
 Check localhost:8080 in the browser
+
+![Preview of the Interactive Application](preview.png)
